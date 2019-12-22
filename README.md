@@ -21,5 +21,5 @@ The repository includes the following files:
       > A Python file which contains the code about Functionality 4. 
       
 5. tot_main.py:
-      > A python file which t contains commands for the whole program.  
+      > A python file which contains commands for the whole program.  
  
