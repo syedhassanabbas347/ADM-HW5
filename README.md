@@ -23,8 +23,8 @@ The repository includes the following files:
 5. tot_main.py:
       > A python file which contains commands for the whole program.  
 
-6. Saving:
-      > We don't know why when you reopen the jupyer file there are no more Folium functions in the display, so we also attach this folder containing the necessary files if you don't want to redo the commands
-      > A folder which contains a pdf file of my Jupyter Notebook. There are also another 3 folder containing visualization of my solution 	   (html file and PNG file).
+6. Saving folder:
+      > We don't know why when you reopen the jupyer file there are no more Folium functions in the display, so we also attach this folder containing the necessary files if you don't want to redo the commands.
+      This is a folder which contains a pdf file of my Jupyter Notebook. There are also another 3 folder containing visualization of my solution 	   (html file and PNG file).
       
  
