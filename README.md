@@ -2,9 +2,11 @@
 
 ### Repository for the fifth homework of group # 4 composed by Mario Dhimitri, Alessio Sampieri, Syed Hassan Abbas.
 
-## The files are:
+### Attention please: The images of the Folium functions are not saved in the Jupiter file (no one knows why), please redo the commands. If you don't want to redo the commands, I created a folder with the screenshots and html files of those maps.
 
-#### README.md: 
+### The files are:
+
+##### README.md: 
 a Markdown file that explains the content of our repository.
 
 The repository includes the following files:
